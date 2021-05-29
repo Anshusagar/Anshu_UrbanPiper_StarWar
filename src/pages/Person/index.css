@@ -1,0 +1,10 @@
+.person h1 {
+  color: #ecd014;
+}
+.person h4 {
+  color: #552f00;
+}
+.Card {
+  width: '22rem' !important;
+  border-radius: 10px;
+}

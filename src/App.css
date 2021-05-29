@@ -1,0 +1,11 @@
+.app {
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background: url('/dp4.jpg');
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
