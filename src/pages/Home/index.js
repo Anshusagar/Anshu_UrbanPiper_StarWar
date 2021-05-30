@@ -113,7 +113,7 @@ function HomePage() {
       </div>
 
       <div className="OptionBox" ref={options}>
-        {test
+        {allData
           ?.filter((item) => {
             if (searchTerm === '') {
               return '';
